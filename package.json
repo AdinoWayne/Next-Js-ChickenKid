@@ -1,10 +1,10 @@
 {
-  "name": "nextjs-notion-starter-kit",
-  "version": "0.1.0",
+  "name": "nextjs-notion",
+  "version": "0.1.1",
   "private": true,
   "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
   "author": "Grunt Wayne",
-  "repository": "AdinoWayne/Next-Js-ChickenKid",
+  "repository": "#",
   "license": "MIT",
   "engines": {
     "node": ">=10"
