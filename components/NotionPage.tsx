@@ -145,6 +145,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
   // only display comments and page actions on blog post pages
   if (isBlogPost) {
     if (config.utterancesGitHubRepo) {
+      console.log('there')
       comments = (
         <ReactUtterances
           repo={config.utterancesGitHubRepo}
