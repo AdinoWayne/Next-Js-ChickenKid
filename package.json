@@ -4,7 +4,7 @@
   "private": true,
   "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
   "author": "Grunt Wayne",
-  "repository": "transitive-bullshit/nextjs-notion-starter-kit",
+  "repository": "AdinoWayne/Next-Js-ChickenKid",
   "license": "MIT",
   "engines": {
     "node": ">=10"
